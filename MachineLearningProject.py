@@ -201,3 +201,5 @@ for i in df_test.index:
 with open('predicted.json', 'w') as f:
     json.dump(prediction_list, f)
 print('predicted.json created and filled')
+
+#Test: edit line from GitHub Online
